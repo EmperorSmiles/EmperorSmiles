@@ -1,3 +1,3 @@
 *Designing the future, powering the present.*
 
-*Exploring CLI and developer tooling with Go and Rust.*
+*Working with Go and Rust on CLI and dev tools.*
